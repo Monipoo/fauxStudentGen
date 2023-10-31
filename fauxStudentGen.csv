@@ -1,41 +1,41 @@
-Student Id,Student Name,Gender,Birthday,Zip Code,Assignment Type,Subject Category,Available Points,Points Recieved,Homework assigned,Homework Submitted,Homework Assigned,Homework Duration
-87.0,Lindsay Obrien,Female,2003-07-13,32203.0,Virtual,Academics,10.0,8.0,,2023-10-25,2023-10-24,1.0
-35.0,Corey Hill,Male,2004-10-08,32205.0,In-Person,History and Tradition,50.0,16.0,2023-10-28,2023-10-28,,
-82.0,Christian Brown,Male,2001-08-19,32204.0,Virtual,Health & Wellness,40.0,26.0,2023-10-29,2023-10-30,,
-73.0,Kirsten Hampton,Female,2002-04-12,32034.0,In-Person,Creativity(STEM),20.0,0.0,,2023-10-28,2023-10-24,4.0
-3.0,Crystal Baker,Female,2002-02-13,32205.0,Virtual,History and Tradition,50.0,4.0,,2023-10-30,2023-10-30,0.0
-97.0,Donna Mendoza,Female,2006-06-11,32205.0,Virtual,Creativity(STEM),20.0,9.0,,2023-10-24,2023-10-19,5.0
-44.0,Anna Wallace,Female,2005-09-14,32034.0,Virtual,Health & Wellness,40.0,4.0,,2023-10-25,2023-10-22,3.0
-27.0,Chelsea Flynn,Female,2004-03-12,32205.0,Virtual,Creativity(STEM),20.0,4.0,,2023-10-29,2023-10-28,1.0
-50.0,Edward White,Male,2000-11-17,32034.0,In-Person,Health & Wellness,40.0,30.0,2023-10-17,2023-10-17,,
-48.0,Nicholas Henderson,Male,2005-03-21,32204.0,Virtual,Health & Wellness,40.0,30.0,2023-10-30,2023-10-30,,
-30.0,Jennifer Dalton,Female,2004-11-26,32034.0,Virtual,Creativity(STEM),20.0,16.0,,2023-10-24,2023-10-20,4.0
-98.0,Timothy Lawrence,Male,2001-07-15,32203.0,In-Person,History and Tradition,50.0,44.0,2023-10-26,2023-10-26,,
-70.0,Sharon Hernandez,Female,2003-09-27,32202.0,In-Person,History and Tradition,50.0,23.0,,2023-10-22,2023-10-19,3.0
-8.0,Amanda Meadows,Female,2006-04-25,32205.0,Virtual,Academics,10.0,7.0,,2023-10-28,2023-10-27,1.0
-80.0,Kristin Carter,Female,2000-12-19,32202.0,Virtual,Health & Wellness,40.0,17.0,,2023-10-28,2023-10-22,6.0
-51.0,Brenda Alvarez,Female,2001-04-06,32201.0,In-Person,Business & Finance,30.0,20.0,,2023-10-25,2023-10-20,5.0
-85.0,Richard Sherman,Male,2005-07-31,32202.0,Virtual,Business & Finance,30.0,29.0,2023-10-18,2023-10-24,,
-89.0,John Bryant,Male,2001-07-16,32202.0,In-Person,Academics,10.0,8.0,2023-10-17,2023-10-30,,
-10.0,Lindsey Murray,Female,2000-11-11,32203.0,In-Person,Health & Wellness,40.0,6.0,,2023-10-29,2023-10-29,0.0
-47.0,Ryan Hogan,Male,2004-08-12,32034.0,Virtual,Business & Finance,30.0,12.0,2023-10-19,2023-10-19,,
-83.0,Matthew Dean,Male,2002-08-09,32202.0,Virtual,Health & Wellness,40.0,8.0,2023-10-23,2023-10-23,,
-47.0,Audrey Collins,Female,2005-06-02,32205.0,Virtual,Creativity(STEM),20.0,5.0,,2023-10-30,2023-10-28,2.0
-60.0,Steven Lynch,Male,2001-08-02,32201.0,In-Person,History and Tradition,50.0,20.0,2023-10-27,2023-10-27,,
-58.0,Jamie Adams,Female,2001-04-15,32203.0,Virtual,History and Tradition,50.0,8.0,,2023-10-29,2023-10-25,4.0
-39.0,Madison Turner,Female,2003-08-30,32202.0,Virtual,Academics,10.0,8.0,,2023-10-30,2023-10-24,6.0
-85.0,Steven Foster,Male,2004-09-10,32034.0,Virtual,Academics,10.0,9.0,2023-10-28,2023-10-28,,
-7.0,Rodney King,Male,2005-01-27,32204.0,In-Person,Academics,10.0,4.0,2023-10-23,2023-10-28,,
-91.0,Sue Thompson,Female,2004-03-15,32202.0,In-Person,Academics,10.0,4.0,,2023-10-23,2023-10-19,4.0
-36.0,James Olson,Male,2002-06-17,32034.0,Virtual,Creativity(STEM),20.0,9.0,2023-10-29,2023-10-30,,
-88.0,Paul Bradshaw Jr.,Male,2003-07-19,32202.0,In-Person,Academics,10.0,8.0,2023-10-19,2023-10-22,,
-57.0,Samuel Lopez,Male,2004-03-29,32034.0,In-Person,History and Tradition,50.0,16.0,2023-10-21,2023-10-27,,
-47.0,Michelle Hawkins,Female,2002-01-15,32202.0,In-Person,Health & Wellness,40.0,10.0,,2023-10-21,2023-10-18,3.0
-30.0,Kristen Howard,Female,2001-04-06,32034.0,In-Person,History and Tradition,50.0,18.0,,2023-10-30,2023-10-29,1.0
-100.0,Daniel Salazar,Male,2005-01-03,32034.0,In-Person,Health & Wellness,40.0,11.0,2023-10-17,2023-10-24,,
-14.0,David Barber,Male,2005-09-28,32205.0,In-Person,History and Tradition,50.0,29.0,2023-10-29,2023-10-29,,
-98.0,James Black,Male,2003-12-24,32034.0,In-Person,Health & Wellness,40.0,13.0,2023-10-20,2023-10-23,,
-12.0,Amanda Byrd,Female,2006-03-03,32034.0,In-Person,Academics,10.0,9.0,,2023-10-29,2023-10-20,9.0
-75.0,Alfred Johnson,Male,2004-07-24,32204.0,Virtual,Business & Finance,30.0,16.0,2023-10-25,2023-10-26,,
-19.0,James Myers,Male,2006-01-02,32204.0,In-Person,History and Tradition,50.0,40.0,2023-10-22,2023-10-23,,
-3.0,Stephanie Jackson,Female,2003-06-02,32201.0,In-Person,Creativity(STEM),20.0,4.0,,2023-10-25,2023-10-20,5.0
+Student Id,Student Name,Gender,Birthday,Zip Code,Assignment Type,Subject Category,Available Points,Points Recieved,Homework Assigned,Homework Submitted,Homework Duration
+9.0,Corey Castaneda,Male,2002-08-18,32201.0,Virtual,History and Tradition,50.0,23.0,2023-10-28,2023-10-29,1.0
+44.0,Leah Pham,Female,2005-11-11,32201.0,Virtual,History and Tradition,50.0,5.0,2023-10-24,2023-10-29,5.0
+36.0,Catherine Gomez,Female,2005-01-08,32204.0,Virtual,Academics,10.0,3.0,2023-10-21,2023-10-23,2.0
+80.0,George Anderson,Male,2002-11-14,32205.0,In-Person,Health & Wellness,40.0,4.0,2023-10-28,2023-10-28,0.0
+60.0,Elijah Wood,Male,2005-07-13,32205.0,Virtual,Business & Finance,30.0,12.0,2023-10-25,2023-10-26,1.0
+75.0,Erica Powell,Female,2004-03-17,32201.0,Virtual,Creativity(STEM),20.0,12.0,2023-10-28,2023-10-29,1.0
+4.0,Lisa Lane,Female,2004-11-15,32201.0,In-Person,Creativity(STEM),20.0,15.0,2023-10-26,2023-10-29,3.0
+20.0,Mark Dominguez,Male,2001-05-20,32204.0,In-Person,Health & Wellness,40.0,16.0,2023-10-17,2023-10-27,10.0
+92.0,Jeffrey Perry,Male,2002-08-13,32034.0,In-Person,Health & Wellness,40.0,1.0,2023-10-25,2023-10-27,2.0
+12.0,Joseph Wade II,Male,2001-08-06,32034.0,In-Person,History and Tradition,50.0,17.0,2023-10-21,2023-10-30,9.0
+13.0,Ronald Bennett,Male,2001-02-08,32202.0,In-Person,Business & Finance,30.0,14.0,2023-10-21,2023-10-28,7.0
+98.0,Crystal Ford,Female,2004-07-20,32203.0,Virtual,Academics,10.0,0.0,2023-10-23,2023-10-23,0.0
+41.0,David Medina,Male,2004-07-21,32203.0,In-Person,Creativity(STEM),20.0,10.0,2023-10-28,2023-10-30,2.0
+38.0,Jason Moss,Male,2005-12-10,32202.0,In-Person,Health & Wellness,40.0,33.0,2023-10-23,2023-10-24,1.0
+43.0,Richard Byrd,Male,2005-06-09,32205.0,Virtual,Health & Wellness,40.0,9.0,2023-10-25,2023-10-26,1.0
+74.0,Jason Johnson,Male,2000-12-20,32205.0,In-Person,Health & Wellness,40.0,2.0,2023-10-17,2023-10-21,4.0
+44.0,Maria Vincent,Female,2006-04-19,32034.0,In-Person,Creativity(STEM),20.0,10.0,2023-10-25,2023-10-25,0.0
+90.0,Erika Harris,Female,2005-09-26,32205.0,In-Person,History and Tradition,50.0,26.0,2023-10-29,2023-10-29,0.0
+39.0,Joshua Blair,Male,2003-03-30,32203.0,In-Person,Creativity(STEM),20.0,8.0,2023-10-30,2023-10-30,0.0
+4.0,Christopher Myers,Male,2001-06-24,32201.0,In-Person,Business & Finance,30.0,29.0,2023-10-30,2023-10-30,0.0
+65.0,Katherine Bell,Female,2002-11-18,32204.0,Virtual,Academics,10.0,8.0,2023-10-30,2023-10-30,0.0
+1.0,Kelsey Hall,Female,2005-11-04,32034.0,Virtual,Business & Finance,30.0,29.0,2023-10-27,2023-10-30,3.0
+27.0,Kimberly Walters,Female,2006-03-30,32202.0,Virtual,History and Tradition,50.0,43.0,2023-10-18,2023-10-20,2.0
+12.0,Natasha Williams,Female,2004-04-27,32205.0,Virtual,Business & Finance,30.0,10.0,2023-10-19,2023-10-30,11.0
+92.0,Kristin Gordon,Female,2002-08-02,32202.0,Virtual,Creativity(STEM),20.0,16.0,2023-10-24,2023-10-30,6.0
+70.0,Sheila Vaughn,Female,2001-01-12,32205.0,Virtual,Business & Finance,30.0,11.0,2023-10-20,2023-10-24,4.0
+48.0,Renee Mclaughlin,Female,2004-03-14,32203.0,Virtual,Health & Wellness,40.0,21.0,2023-10-22,2023-10-22,0.0
+62.0,Tyler Mills,Male,2001-12-22,32203.0,In-Person,Creativity(STEM),20.0,7.0,2023-10-21,2023-10-24,3.0
+12.0,Kathleen Richardson,Female,2002-06-19,32202.0,In-Person,Health & Wellness,40.0,2.0,2023-10-21,2023-10-30,9.0
+93.0,Victoria Burke,Female,2004-08-23,32205.0,In-Person,History and Tradition,50.0,1.0,2023-10-29,2023-10-29,0.0
+84.0,Bruce Kelley,Male,2003-02-16,32202.0,In-Person,History and Tradition,50.0,42.0,2023-10-24,2023-10-25,1.0
+87.0,Nicholas Hartman,Male,2001-06-19,32205.0,Virtual,Academics,10.0,0.0,2023-10-19,2023-10-22,3.0
+22.0,Joshua Shea,Male,2004-07-13,32201.0,In-Person,Academics,10.0,5.0,2023-10-27,2023-10-28,1.0
+67.0,Michele Gomez,Female,2006-04-23,32205.0,In-Person,Health & Wellness,40.0,3.0,2023-10-22,2023-10-25,3.0
+48.0,Denise Nichols,Female,2005-04-27,32205.0,Virtual,Academics,10.0,4.0,2023-10-23,2023-10-30,7.0
+10.0,Daniel Steele,Male,2002-09-04,32205.0,In-Person,Business & Finance,30.0,12.0,2023-10-26,2023-10-26,0.0
+50.0,Chad Fischer,Male,2005-10-01,32205.0,In-Person,Business & Finance,30.0,24.0,2023-10-30,2023-10-30,0.0
+83.0,Morgan Meadows,Female,2002-04-15,32202.0,In-Person,Health & Wellness,40.0,38.0,2023-10-29,2023-10-29,0.0
+91.0,William Ware,Male,2005-06-16,32204.0,Virtual,Business & Finance,30.0,17.0,2023-10-17,2023-10-27,10.0
+43.0,Kaitlyn Mcknight,Female,2002-12-23,32034.0,In-Person,Creativity(STEM),20.0,17.0,2023-10-20,2023-10-26,6.0
